@@ -2,7 +2,6 @@
 
 Given the following infinitely extended grid:
 
-|      |      |      |      |
 | :--: | :--: | :--: | :--: | :--:
 |   1  | null | null | null | ...
 |   2  |   3  | null | null | ...
